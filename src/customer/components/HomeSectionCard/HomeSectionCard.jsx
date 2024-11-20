@@ -1,5 +1,4 @@
 import React from "react";
-import { lengha_page1 } from "../../../Data/Women/LenghaCholi";
 
 const HomeSectionCard = ({ product }) => {
   return (

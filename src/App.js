@@ -8,8 +8,8 @@ const App = () => {
     <div>
       <Navigation />
       <div>
-        {/* <HomePage /> */}
-        <Product />
+        <HomePage />
+        {/* <Product /> */}
       </div>
       <Footer />
     </div>

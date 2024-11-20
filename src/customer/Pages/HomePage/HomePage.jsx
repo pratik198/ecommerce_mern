@@ -8,7 +8,7 @@ const HomePage = () => {
     <div>
       <MainCarousel />
       <div className="space-y-10 py-20 flex flex-col justify-center px-5 lg:px-10">
-        <HomeSectionCarousel data={lengha_page1} sectionName={"Men's Kurta"} />
+        <HomeSectionCarousel data={lengha_page1} sectionName={"Women's Top"} />
         <HomeSectionCarousel data={lengha_page1} sectionName={"Men's Shoes"} />
         <HomeSectionCarousel data={lengha_page1} sectionName={"Men's Shirt"} />
         <HomeSectionCarousel
